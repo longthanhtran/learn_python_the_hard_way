@@ -1,6 +1,5 @@
 #!/usr/bin/env python3.6
 
-<<<<<<< 004dae3dba48346844fd4439ae136405f97a755c
 class MyStuff(object):
 
     def __init__(self):
@@ -9,8 +8,6 @@ class MyStuff(object):
     def apple(self):
         print("I AM CLASSY APPLES")
 
-=======
->>>>>>> ex36 ex39
 class Song(object):
 
     def __init__(self, lyrics):
